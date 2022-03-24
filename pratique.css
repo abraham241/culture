@@ -1,0 +1,21 @@
+h1
+{
+  color: red;
+}
+h1
+{
+font-size: 3em;
+}
+ul
+{
+	border: 3px blue dotted;
+	box-shadow: 6px 6px 0px blue;
+}
+.photo
+{
+	text-align: center;
+}
+a:hover
+{  
+  font-weight: bold;
+}
